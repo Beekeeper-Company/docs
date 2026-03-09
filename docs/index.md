@@ -4,22 +4,22 @@ layout: home
 
 hero:
   name: "Beekeeper"
-  text: "Иммерсивный симулятор пасечника"
-  tagline: Дизайн-документ + документация
+  text: "A VitePress Site"
+  tagline: My great project tagline
   actions:
     - theme: brand
-      text: К документации
+      text: Markdown Examples
       link: /markdown-examples
     - theme: alt
-      text: API Reference
+      text: API Examples
       link: /api-examples
 
 features:
-  - title: Клиент
-    details: Описание геймплея, механик, техническое задание, API reference
-  - title: Сервер
-    details: Технологии и описание серверной части игры, описание эндпоинтов и сетевой модели сервера
-  - title: Нарратив
-    details: Визуал, звуки, атмосфера и история, объединяющая все детали в единую картину
+  - title: Feature A
+    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
+  - title: Feature B
+    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
+  - title: Feature C
+    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
 ---
 

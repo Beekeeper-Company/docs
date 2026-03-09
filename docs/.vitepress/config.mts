@@ -2,12 +2,9 @@ import { defineConfig } from "vitepress";
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
-  srcDir: "docs",
-  outDir: ".vitepress/dist",
-  base: "/docs/docs/",
-
   title: "Beekeeper",
-  description: "Документация симулятора пасечника",
+  description: "A VitePress Site",
+  base: "/docs/",
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     nav: [
