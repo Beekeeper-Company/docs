@@ -192,6 +192,15 @@ export default defineConfig({
           },
         ],
       },
+      {
+        text: "Сервер",
+        items: [
+          {
+            text: "Введение",
+            link: "/Сервер/Введение"
+          }
+        ],
+      }
     ],
     socialLinks: [
       { icon: "github", link: "https://github.com/Beekeeper-Company/docs" },
